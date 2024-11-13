@@ -1,3 +1,4 @@
 # BSINFOTECH_401A_MIDTERM_CRUD
 
-#Ado-Amorganda
+Ado Phaul Isaac
+Amorganda Mico
